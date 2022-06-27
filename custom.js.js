@@ -4,7 +4,7 @@
      // no display, limpando o número informado
  })
 
- // Botão -> BackSpace
+ // Botão -> BackSpace 
 
  const BackSpace = () =>{
      const num = document.querySelector("#display").value.slice(0, -1);
